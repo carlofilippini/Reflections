@@ -18,8 +18,17 @@ git diff: detail of each change
 How might using version control make you more confident to make changes that could break something?
 I check anytime revet back
 
+
 git diff
 git clone
 git checkout
 git log
 git status
+git init
+git add
+git branch
+git log --graph --oneline master coins
+git merge
+git show : compare a commit to his parent
+git remote  
+git push  : 
